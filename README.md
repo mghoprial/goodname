@@ -1,0 +1,2 @@
+# goodname
+example
